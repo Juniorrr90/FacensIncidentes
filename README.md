@@ -12,3 +12,6 @@ Obs: Banco de dados esta na nuvem, então não precisa se preocupar
 
 Usuario: admin
 Senha: 1234
+
+
+Caso apareça erro de DLL é necessário dar um clear no projeto (botão direito no projeto dentro do VS e clean).
